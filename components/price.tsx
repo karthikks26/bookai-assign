@@ -1,7 +1,7 @@
 export function Price() {
   return (
     <div className="flex justify-center items-center min-h-screen">
-      <div className="bg-white dark:bg-[#1e293b] dark:text-[#e2e8f0] rounded-lg shadow-md border border-gray-300 dark:border-[#334155] max-w-4xl w-full mx-auto p-8 leading-[1.6]">
+      <div className="bg-white dark:bg-[#1e293b] dark:text-[#e2e8f0] rounded-lg shadow-md border border-gray-300 dark:border-[#334155] max-w-4xl w-full  p-8 leading-[1.6] mx-5 my-[15%] md:my-[5%] lg:my-0">
         <h2 className="text-2xl font-bold mb-4 head text-gray-900 dark:head ">
           API Pricing
         </h2>
